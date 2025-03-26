@@ -1,4 +1,4 @@
-# Dashboard em Power BI 
+# Dashboard comercial em Power BI
 Este é um modelo de dashboard criado em Power BI, voltado para análises e decisões comerciais. Foram utilizados dados de uma empresa fictícia para se demonstrar o passo a passo de toda a criação, passando pelo carregamento e limpeza dos dados, realização de todos os cálculos e o desenvolvimento dos painéis.
 
 ### 1. Carregamento e Transformação dos dados no Power BI
@@ -19,29 +19,28 @@ A fim de realizar a agragação dos principais dados usados no painel, tais como
 ![image](https://github.com/user-attachments/assets/b1eec28f-5a4b-45e7-a6b6-fcc4b0127d8b)
 
 ### 4. Montagem do Dashboard
-Após todas as transformações e cálculos, foram originados 4 paines, que interagem entre si, com os seguintes propósitos, mas não a eles limitados:
-##### Dashboard Executivo: 
-Voltado para executivos ou alta gestão. 
-Principais características:
-Números curtos e poucos termos; apenas os principais KPIs utilizados: faturamento, lucro, pedidos, produtos; Simples e direto ao ponto.
-##### Dashboard Mapa
-Aliado ao dashboard executivo, mostra a localização geográfica dos dados
-##### Dashboard Produtos
-Voltado para equipes comerciais e de produção
-Demonstra uma análise mais aprofundada de cada produto, especialmente sobre seu faturamento, metas e quantidade de devoluções.
-##### Dashboard Clientes
-Voltados para equipes comerciais e de marketing
-Visão aprofundada de todos os clientes e seus perfis; 
-Principais características:
-Utilização maior de palavras do que métricas; Aprofundamento de características pessoais
+Após todas as transformações e cálculos, foram originados 4 paines, que interagem entre si, com os seguintes propósitos, mas não a eles limitados:  
+#### 👨‍💼 Dashboard Executivo
+Voltado para executivos ou alta gestão.  
+**Principais características:** Números curtos e poucos termos; apenas os principais KPIs utilizados: faturamento, lucro, pedidos, produtos; Simples e direto ao ponto.
+#### 🌎 Dashboard Mapa
+Aliado ao dashboard executivo, mostra a localização geográfica dos dados.
+#### 🛒 Dashboard Produtos
+Voltado para equipes comerciais e de produção.  
+**Principais características:** Demonstra uma análise mais aprofundada de cada produto, especialmente sobre seu faturamento, metas e quantidade de devoluções.
+##### 🚴‍♀️ Dashboard Clientes
+Voltado para equipes comerciais e de marketing.  
+**Principais características:** Visão aprofundada de todos os clientes e seus perfis; Utilização maior de palavras do que métricas; Aprofundamento de características pessoais
+
+### 5. Dashboard Finalizado
+[Link para o vídeo de apresentação:](https://drive.google.com/file/d/1liPKb94QkcsJqdqHL6_HfzNu6P_MeN09/view?usp=drive_link)
+
+#### Screenshots
 
 ![image](https://github.com/user-attachments/assets/c35666cb-488d-439d-8606-0d1806045c35)
 ![image](https://github.com/user-attachments/assets/0bb83554-7c7a-4a2c-b310-fcb8174f0498)
 ![image](https://github.com/user-attachments/assets/707b0005-a160-48fb-9188-8ef5cbfb7ef0)
 ![image](https://github.com/user-attachments/assets/7d6b52ef-999c-4334-86f3-d4fb858c54f6)
-
-
-Link para o vídeo de apresentação do dashboard em funcionamento.
 
 
 
