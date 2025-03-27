@@ -1,6 +1,8 @@
 # Dashboard comercial em Power BI
 Este é um modelo de dashboard criado em Power BI, voltado para análises e decisões comerciais. Foram utilizados dados de uma empresa fictícia para se demonstrar o passo a passo de toda a criação, passando pelo carregamento e limpeza dos dados, realização de todos os cálculos e o desenvolvimento dos painéis.
 
+[Link para o vídeo de apresentação:](https://drive.google.com/file/d/1liPKb94QkcsJqdqHL6_HfzNu6P_MeN09/view?usp=drive_link)
+
 ### 1. Carregamento e Transformação dos dados no Power BI
 O primeiro passo foi carregar todos os arquivos .csv e realizar sua transformação através do Power Query. Para a normalização dos arquivos, foram necessários ajustes, que incluem:  
 . Alteração nos nomes dos arquivos e algumas colunas  
@@ -33,8 +35,6 @@ Voltado para equipes comerciais e de marketing.
 **Principais características:** Visão aprofundada de todos os clientes e seus perfis; Utilização maior de palavras do que métricas; Aprofundamento de características pessoais
 
 ### 5. Dashboard Finalizado
-[Link para o vídeo de apresentação:](https://drive.google.com/file/d/1liPKb94QkcsJqdqHL6_HfzNu6P_MeN09/view?usp=drive_link)
-
 #### Screenshots
 
 ![image](https://github.com/user-attachments/assets/c35666cb-488d-439d-8606-0d1806045c35)
